@@ -1,0 +1,20 @@
+*{
+    padding: 0px;
+    background-color: #79C7C5;
+}
+.center{
+    text-align: center;
+}
+.detalhes{
+    text-align: center;
+    background-color: #73AB84;
+    font-size: 25px;
+    font-style: oblique;
+}
+.detalhesh2{
+    
+    text-align: center;
+    background-color: #73AB84;
+    font-size: 20px;
+    
+}
